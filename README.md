@@ -1,7 +1,6 @@
 # AWS Cloud Practitioner Study
 
-AWS Certified Cloud Practitioner取得に向けた学習記録です
+AWS Certified Cloud Practitioner取得に向けた学習記録。
 
-学習内容
-・
-・
+【意識すること】
+アウトプットする前提で勉強を行う
